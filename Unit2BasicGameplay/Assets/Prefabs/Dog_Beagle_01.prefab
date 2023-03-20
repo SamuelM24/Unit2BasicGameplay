@@ -2886,7 +2886,7 @@ GameObject:
   - component: {fileID: 7453297914402744453}
   m_Layer: 0
   m_Name: Dog_Beagle_01
-  m_TagString: Untagged
+  m_TagString: Animal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2999,8 +2999,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.13134877, y: 0.19417334, z: 0.24804264}
-  m_Center: {x: -0.0060262284, y: 0.0919029, z: 0.03744931}
+  m_Size: {x: 0.13134877, y: 0.8025045, z: 0.24804264}
+  m_Center: {x: -0.0060262284, y: 0.39606902, z: 0.03744931}
 --- !u!114 &7453297914402744453
 MonoBehaviour:
   m_ObjectHideFlags: 0

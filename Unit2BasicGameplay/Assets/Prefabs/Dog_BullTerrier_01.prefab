@@ -1851,7 +1851,7 @@ GameObject:
   - component: {fileID: 5226932420606324833}
   m_Layer: 0
   m_Name: Dog_BullTerrier_01
-  m_TagString: Untagged
+  m_TagString: Animal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1964,8 +1964,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.118872516, y: 0.26110893, z: 0.28868675}
-  m_Center: {x: 0.0039759614, y: 0.11371061, z: 0.025378704}
+  m_Size: {x: 0.118872516, y: 0.54912794, z: 0.28868675}
+  m_Center: {x: 0.0039759614, y: 0.25772005, z: 0.025378704}
 --- !u!114 &5226932420606324833
 MonoBehaviour:
   m_ObjectHideFlags: 0

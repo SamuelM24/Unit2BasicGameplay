@@ -5071,7 +5071,7 @@ GameObject:
   - component: {fileID: -6914230556777562607}
   m_Layer: 0
   m_Name: Dog_Doberman_01
-  m_TagString: Untagged
+  m_TagString: Animal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5184,8 +5184,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.11460091, y: 0.2440204, z: 0.25307125}
-  m_Center: {x: 0.0045842673, y: 0.10552805, z: -0.0054703895}
+  m_Size: {x: 0.11460091, y: 0.3882681, z: 0.25307125}
+  m_Center: {x: 0.0045842673, y: 0.177652, z: -0.0054703895}
 --- !u!114 &-6914230556777562607
 MonoBehaviour:
   m_ObjectHideFlags: 0
